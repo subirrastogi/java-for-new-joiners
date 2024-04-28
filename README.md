@@ -5,6 +5,7 @@ Set-up required -
 * Oracle JDK 22
 * IntelliJ IDEA Community Edition - https://www.jetbrains.com/idea/download/?section=windows
 
+Topics to be covered 
 * Hello World Java
 * Working with Primitive types, Strings
 * Working with Objects, creating classes
