@@ -2,7 +2,7 @@
 Core Java
 
 Set-up required -
-* Oracle JDK 22
+* Oracle JDK 22 - https://www.oracle.com/in/java/technologies/downloads/#jdk22-windows
 * IntelliJ IDEA Community Edition - https://www.jetbrains.com/idea/download/?section=windows
 
 Topics to be covered 
